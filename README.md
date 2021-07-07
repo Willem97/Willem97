@@ -11,9 +11,6 @@ Tool
 [![](https://img.shields.io/badge/macOS-MackBookPro-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 
 
-![Metrics](https://metrics.lecoq.io/willem97?template=classic&config.timezone=Asia%2FShanghai)
-
-
 ![info](https://github-readme-stats.vercel.app/api?username=Willem97&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 
