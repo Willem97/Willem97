@@ -16,8 +16,6 @@ Tool
 
 ![Willem97 Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=willem97&show_icons=true&count_private=true&theme=gotham)
 
-![Willem97 Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willem97&layout=compact&hide_border=true&langs_count=10)
-
 
 
 <!---
